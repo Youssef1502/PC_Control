@@ -64,4 +64,4 @@ Make sure you meet the following prerequisites before you start:
 
 ## Execution Result
 
-![PC Control]()
+[PC Control_Drive](https://drive.google.com/file/d/1yiLjsTqHiOy00_jVtLhZOtp8r6amcXej/view)
